@@ -1,12 +1,12 @@
 # FinOps Foundation SIG Education
 
-Primary Authors: tbc
+Primary Authors: Mike Fuller
 
 Reviewed and Contributed to by: tbc
 
 # Introduction
 
-tbc
+SIG-Education is primarily focused on the training and certification offerings the FinOps Foundation has. Ensuring the materials and questions used in exams are kept up to date with the latest practices and offerings. Feedback from other SIGs, general members and exam/training feedback forms should be reviewed and used to continuiosly improve our education packages.
 
 # Mission Statement
 
@@ -19,7 +19,7 @@ tbc
 
 ## In Scope
 
-TBC
+All materials/training/exams output by the FinOps Foundation
 
 ### Current FinOps Foundation Education Working Groups
 
@@ -31,7 +31,7 @@ Generally anything not considered in scope.
 
 # Overlap and Relations with other Groups and Projects
 
-TBC
+SIG-Education should take inputs from all other SIGs
 
 # Responsibilities and Deliverables
 
